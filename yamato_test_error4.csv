@@ -1,0 +1,5 @@
+"2025/07/23 10:59:18",yamato-T01,OK,,"result : requestDate=20250723105912&resAuthCode=0105912&responseDate=20250723105916&mstatus=failure"
+"2025/07/23 10:59:28",yamato-T02,OK,,"result : requestDate=20250723105924&cardholderName=1&resAuthCode=0105924&responseDate=20250723105927&mstatus=success"
+"2025/07/23 10:59:18",yamato-T03,OK,,"result : requestDate=20250723105912&resAuthCode=01059あ12&responseDate=20250723105916&mstatus=success"
+"2025/07/23 10:59:18",yamato-T04,OK,,"result : requestDate=202507231059121&resAuthCode=0105912&responseDate=20250723105916&mstatus=success"
+"2025/07/23 10:59:18",yamato-T05,OK,,"result : requestDate=20250723105912&resAuthCode=0105912&responseDate=202507231059161&mstatus=success"
